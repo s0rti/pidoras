@@ -1,0 +1,2 @@
+# pidoras
+robocode midel pidor
