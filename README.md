@@ -2,7 +2,7 @@
 robocode midel pidor
 
 #myself
-![myself](https://memepedia.ru/wp-content/uploads/2018/09/net-eto-patrik-mem-shablon.jpg)
+![myself](https://memepedia.ru/wp-content/uploads/2018/09/net-eto-patrik-mem-shablon.jpg/w=300)
 
 ### name: misha gondonio
 
